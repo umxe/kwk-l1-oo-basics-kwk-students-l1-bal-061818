@@ -17,6 +17,6 @@ class Shoe
   
   cobble = Shoe.new
   cobble.condition = ("new")
-
+  
   
 end
